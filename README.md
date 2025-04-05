@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Debendu Debnath! 👋
 
-![GitHub Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![GitHub Views](https://komarev.com/ghpvc/?username=dibyendu-git-platform&color=blue)
 
 ---
 
@@ -33,19 +33,19 @@
 ---
 
 ### 📊 GitHub Stats:
-![Debendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Debendu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dibyendu-git-platform&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyendu-git-platform&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibyendu-git-platform&theme=radical)
 
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dibyendu-debnath-57814a326)
 
 ---
 
