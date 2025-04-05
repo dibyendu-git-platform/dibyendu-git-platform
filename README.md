@@ -1,9 +1,9 @@
+### Hi there, I'm Debendu Debnath! 👋
+
 - 👀 I’m interested in Javascript, Web Dev, AI
 - 🌱 I’m currently learning Web Dev Using MERN Stack
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me Contact through mail
-
-### Hi there, I'm Debendu Debnath! 👋
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=dibyendu-git-platform&color=blue)
 
